@@ -1,2 +1,1 @@
-# canon
-Truth through fiction, preserved in commits.
+# Canon - The living canon of Mythwell.
